@@ -6,5 +6,10 @@ public class App {
 		// TODO Auto-generated method stub
 
 	}
+	
+	public void add(int number1, int number2) {
+		int result = number1 + number2;
+		System.out.println(result);
+	}
 
 }
